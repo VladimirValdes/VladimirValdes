@@ -17,7 +17,14 @@ I'm always trying to grow and learn something new about web technologies.
 
 
 ### :mailbox:  Where to find me
-[<img src="https://img.shields.io/badge/Twitter-282C34?logo=twitter&logoColor=3178C6" alt="twitter logo" title="twitter" height="25" />](https://twitter.com/VladiH_Valdes)
+<div>
+<a href="https://twitter.com/VladiH_Valdes" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-282C34?logo=twitter&logoColor=3178C6" alt="twitter logo" title="twitter" height="25" />
+</a>
+ <a href="https://www.linkedin.com/in/VladimirValdes" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=3178C6" alt="linkedin logo" title="linkedin" height="25" />
+</a>
+</div>
 
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=3178C6" alt="linkedin logo" title="linkedin" height="25" />](https://www.linkedin.com/in/VladimirValdes)
+
 
