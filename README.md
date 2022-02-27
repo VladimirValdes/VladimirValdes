@@ -1,9 +1,12 @@
+
+
+
 ## Hi there 👋 I'm Vladimir Valdés
 
+I am **frontend developer** I like to built web applications using **Angular**, **TypeScript** and **SCSS**
+sometimes I do stuffs with the **backend** using **Node Js**. I am self-taught, and I'm always trying to grow and learn something new about web technologies.
 
-I am a web developer passionate about designing and developing web projects. 
-Some of the technologies I like to work are Angular, JavaScript and Typescript. 
-I'm always trying to grow and learn something new about web technologies.
+
 
 
 
