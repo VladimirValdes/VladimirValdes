@@ -1,12 +1,21 @@
 
-
+<div align="center">
+  <img src="https://vladimirdev.vercel.app/assets/images/cover.gif" alt="cover" title="cover"/>
+</div>
 
 ## Hi there 👋 I'm Vladimir Valdés
 
 ### :information_desk_person: About Me
 
-I am **frontend developer** I like to built web applications using **Angular**, **TypeScript** and **SCSS**
+
+ I am **frontend developer** I like to built web applications using **Angular**, **TypeScript** and **SCSS**
 sometimes I do stuffs with the **backend** using **Node Js**. I am self-taught, and I'm always trying to grow and learn something new about web technologies.
+
+
+
+
+
+
 
 
 
